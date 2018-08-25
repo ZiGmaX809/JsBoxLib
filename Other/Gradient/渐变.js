@@ -86,8 +86,8 @@ function HSV2HEX(h, s, v) {
   r = r * 255
   g = g * 255
   b = b * 255
-  RGB = [Math.ceil(r), Math.ceil(g), Math.ceil(b)]
-  HEX = "#" + RGB2HEX(r, g, b)
+  let RGB = [Math.ceil(r), Math.ceil(g), Math.ceil(b)]
+  let HEX = "#" + RGB2HEX(r, g, b)
 
   return HEX
 }
@@ -100,6 +100,6 @@ function RGB2HEX(r, g, b) {
   e = g_.length < 2 ? "0" + g_ : g_
   x = b_.length < 2 ? "0" + b_ : b_
 
-  HEX = (h.toUpperCase() + e.toUpperCase() + x.toUpperCase())
+  let HEX = (h.toUpperCase() + e.toUpperCase() + x.toUpperCase())
   return HEX
 }

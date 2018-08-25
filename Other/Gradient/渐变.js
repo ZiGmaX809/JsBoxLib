@@ -52,7 +52,7 @@ function HSV2HEX(h, s, v) {
   var s = s / 100
   var v = v / 100
 
-  h1 = Math.floor(h / 60) % 6
+  let h1 = Math.floor(h / 60) % 6
   f = h / 60 - h1
   p = v * (1 - s)
   q = v * (1 - f * s)

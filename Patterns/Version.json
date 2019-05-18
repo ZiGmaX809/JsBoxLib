@@ -1,7 +1,7 @@
 [
   {
-    "version":"1.00",
-    "info":"Patterns发布！",
+    "version":"1.01",
+    "info":"1.修复X系列布局问题；2.修复键盘排版问题；3.增加键盘关闭脚本按钮；4.简化首页按钮，点击输入会优先载入剪贴板内容。",
     "url":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Patterns/Patterns.box"
    }
 ]

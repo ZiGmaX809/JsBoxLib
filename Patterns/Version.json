@@ -1,7 +1,7 @@
 [
   {
-    "version":"1.02",
-    "info":"1.优化键盘逻辑，改为长按锁定大写；2.主界面布局调整。",
+    "version":"1.03",
+    "info":"1.优化键盘，隐藏标题；2.主界面调整；3.增加字体预览；4.其他问题修复。",
     "url":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Patterns/Patterns.box"
    }
 ]

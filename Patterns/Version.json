@@ -1,7 +1,7 @@
 [
   {
-    "version":"1.03",
-    "info":"1.优化键盘，隐藏标题；2.主界面调整；3.增加字体预览；4.其他问题修复。",
+    "version":"1.05",
+    "info":"1.同步版本号；2.优化显示字体。",
     "url":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Patterns/Patterns.box"
    }
 ]

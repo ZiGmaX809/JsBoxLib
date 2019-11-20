@@ -1,7 +1,7 @@
 [
   {
-    "version":"1.06",
-    "info":"1.同步版本号；2.优化显示字体；3.每日一句暂时下线。",
+    "version":"1.07",
+    "info":"1.支持iOS13，修复键盘字体过丑的问题；2.同步版本号。",
     "url":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Patterns/Patterns.box"
    }
 ]

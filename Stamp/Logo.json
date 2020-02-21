@@ -1,16 +1,16 @@
 [{
   "logo_name":{
-      text:"Custom Text",
-      src:""
+      "text":"Custom Text",
+      "src":""
     },
 },{
   "logo_name":{
-      text:"Cyberpunk2077-1",
-      src:"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Stamp/cyberpunk2077-1.png"
+      "text":"Cyberpunk2077-1",
+      "src":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Stamp/cyberpunk2077-1.png"
     },
 },{
   "logo_name":{
-      text:"Cyberpunk2077-2",
-      src:"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Stamp/cyberpunk2077-2.png"
+      "text":"Cyberpunk2077-2",
+      "src":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Stamp/cyberpunk2077-2.png"
     }
 }]

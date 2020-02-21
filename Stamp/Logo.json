@@ -1,7 +1,7 @@
 [{
-  name:"Cyberpunk2077-1",
-  src:""
+  "name":"Cyberpunk2077-1",
+  "src":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Stamp/cyberpunk2077-1.png"
 },{
-  name:"Cyberpunk2077-2",
-  src:""
+  "name":"Cyberpunk2077-2",
+  "src":"https://raw.githubusercontent.com/ZiGmaX809/JsBoxLib/master/Stamp/cyberpunk2077-2.png"
 }]

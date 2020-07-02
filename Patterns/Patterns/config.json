@@ -1,0 +1,24 @@
+{
+  "widget" : {
+    "staticSize" : false,
+    "tintColor" : "",
+    "height" : 0,
+    "iconColor" : ""
+  },
+  "info" : {
+    "website" : "http:\/\/www.zigma.cc",
+    "author" : "ZiGma",
+    "types" : 15,
+    "name" : "Patterns.js",
+    "url" : "http:\/\/zigma.juniancc.top\/Patterns.box",
+    "version" : "1.0.0"
+  },
+  "settings" : {
+    "minOSVer" : "10.0.0",
+    "minSDKVer" : "1.0.0",
+    "rotateDisabled" : false,
+    "autoKeyboardEnabled" : false,
+    "keyboardToolbarEnabled" : false,
+    "idleTimerDisabled" : false
+  }
+}

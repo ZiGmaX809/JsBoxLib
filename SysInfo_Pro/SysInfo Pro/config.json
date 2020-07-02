@@ -1,0 +1,23 @@
+{
+  "widget" : {
+    "iconColor" : "",
+    "height" : 100,
+    "tintColor" : ""
+  },
+  "info" : {
+    "name" : "SysInfo Pro",
+    "author" : "ZiGma",
+    "website" : "www.zigma.cc",
+    "url" : "",
+    "types" : 15,
+    "version" : "1.0.4"
+  },
+  "settings" : {
+    "minOSVer" : "10.0.0",
+    "minSDKVer" : "1.0.0",
+    "rotateDisabled" : false,
+    "autoKeyboardEnabled" : false,
+    "keyboardToolbarEnabled" : false,
+    "idleTimerDisabled" : false
+  }
+}

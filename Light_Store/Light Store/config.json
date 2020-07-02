@@ -1,0 +1,23 @@
+{
+  "widget" : {
+    "iconColor" : "",
+    "height" : 0,
+    "tintColor" : ""
+  },
+  "info" : {
+    "name" : "Light Store",
+    "author" : "ZiGma",
+    "website" : "http:\/\/www.zigma.cc\/2018\/07\/21\/%E3%80%90JsBox%E3%80%91Light-Store%E7%AC%AC%E4%B8%89%E6%96%B9%E8%BD%BB%E9%87%8F%E5%95%86%E5%BA%97\/",
+    "url" : "",
+    "types" : 15,
+    "version" : "2.1.0"
+  },
+  "settings" : {
+    "minOSVer" : "10.0.0",
+    "minSDKVer" : "1.0.0",
+    "rotateDisabled" : false,
+    "autoKeyboardEnabled" : false,
+    "keyboardToolbarEnabled" : false,
+    "idleTimerDisabled" : false
+  }
+}
